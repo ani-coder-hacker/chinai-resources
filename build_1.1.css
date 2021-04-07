@@ -71491,3 +71491,7 @@ img:hover{
     transition-duration: 1000ms;
   }
 }
+
+p {
+  margin-bottom: 5%;
+}
