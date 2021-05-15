@@ -1,0 +1,19 @@
+@font-face {
+    font-family: circular-black;
+    src: url("Circular-Black.ttf");
+  }
+  
+  @font-face {
+    font-family: product-bold;
+    src: url("Product Sans Regular.ttf");
+  }
+  
+  
+  .heading-text{
+    font-family: circular-black;
+  }
+  
+  .normal-text{
+    font-family: product-bold;
+  }
+  
